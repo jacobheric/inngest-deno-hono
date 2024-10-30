@@ -6,8 +6,6 @@
 ```
 INNGEST_EVENT_KEY=inngest-event-key
 INNGEST_SIGNING_KEY=inngest-signing-key
-INNGEST_API_BASE_URL=http://localhost:8090 
-INNGEST_EVENT_API_BASE_URL=http://localhost:9999
 ```
 
 ### Run the app
